@@ -1,0 +1,8 @@
+[package]
+name = "capnpc-segfault"
+version = "0.1.0"
+authors = ["Chris West (Faux) <git@goeswhere.com>"]
+build = "build.rs"
+
+[build-dependencies]
+capnpc = "0.8.5"
